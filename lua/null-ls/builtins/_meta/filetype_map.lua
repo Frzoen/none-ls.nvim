@@ -200,7 +200,7 @@ return {
   },
   json = {
     diagnostics = { "cfn_lint", "spectral", "vacuum" },
-    formatting = { "biome", "prettier", "prettierd" }
+    formatting = { "biome", "json_tool", "prettier", "prettierd" }
   },
   jsonc = {
     formatting = { "biome", "prettier", "prettierd" }
